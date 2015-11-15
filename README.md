@@ -1,5 +1,10 @@
 # Laravel 5.1 Slug Package
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/raccoonsoftware/slug?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Latest Stable Version](https://poser.pugx.org/raccoonsoftware/slug/v/stable)](https://packagist.org/packages/raccoonsoftware/slug)
+[![Total Downloads](https://poser.pugx.org/raccoonsoftware/slug/downloads)](https://packagist.org/packages/raccoonsoftware/slug)
+[![Latest Unstable Version](https://poser.pugx.org/raccoonsoftware/slug/v/unstable)](https://packagist.org/packages/raccoonsoftware/slug)
+[![License](https://poser.pugx.org/raccoonsoftware/slug/license)](https://packagist.org/packages/raccoonsoftware/slug)
 
 ## Supported Alphabets
 
