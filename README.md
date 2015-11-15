@@ -1,5 +1,7 @@
 # Laravel 5.1 Slug Package
 
+[![Join the chat at https://gitter.im/raccoonsoftware/slug](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/raccoonsoftware/slug?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ## Supported Alphabets
 
