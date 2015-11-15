@@ -39,4 +39,4 @@ And add a new item to the aliases array.
 
 Call of the method: `Slug::convert($text)`
 
-Call of the method with specific separator: `Slug::make($text, '_')`.
+Call of the method with specific separator: `Slug::convert($text, '_')`.
