@@ -1,0 +1,13 @@
+{
+    "name": "raccoonsoftware/slug",
+    "description": "Laravel 5.1 Slug Package",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Mehmet Nuri Ozturk",
+            "email": "mehmet@raccoonsoftware.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
