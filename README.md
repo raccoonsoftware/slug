@@ -33,7 +33,7 @@ Open `app/config/app.php`, and add a new item to the providers array.
 
 And add a new item to the aliases array.
 
-  `'Slug' => 'RaccoonSoftware\Slug\Facades\Slug::class',`
+  `'Slug' => 'RaccoonSoftware\Slug\Facade\Slug::class',`
 
 ## Usage
 
