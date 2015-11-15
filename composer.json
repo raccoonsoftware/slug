@@ -2,6 +2,7 @@
     "name": "raccoonsoftware/slug",
     "description": "Laravel 5.1 Slug Package",
     "license": "BSD",
+    "keywords": ["laravel5", "slug"],
     "authors": [
         {
             "name": "Mehmet Nuri Ozturk",
@@ -9,5 +10,11 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RaccoonSoftware\\Slug\\": "src/"
+        }
+    }
+
 }
